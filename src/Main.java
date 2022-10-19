@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        //задача 1
+        //задача 1..
         int a = 3000;
         byte b = 123;
         long c = 3232323232l;
